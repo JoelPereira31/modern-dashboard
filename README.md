@@ -2,7 +2,7 @@
 
 Painel analítico corporativo desenvolvido com **React** e **TypeScript**, apresentando métricas financeiras em tempo real, tabela dinâmica de transações, arquitetura de **Design System modular** e suporte completo a **Modo Claro / Modo Escuro** com persistência.
 
-> 🔗 **Deploy online:** [Link da Vercel virá aqui]
+> 🔗 **Deploy online:** [modern-dashboard-pi-lilac.vercel.app](https://modern-dashboard-pi-lilac.vercel.app/)
 
 ---
 
